@@ -1,0 +1,14 @@
+{
+  "bot_name": "Pokemon Chirl Mythos Bot",
+  "version": "v0.1.0",
+  "current_step": 0.0,
+  "active_step": 1.0,
+  "target_game": "Pokemon Chirl Mythos",
+  "history": [
+    {
+      "step": 0.0,
+      "version": "v0.1.0",
+      "description": "Inicialización del espacio de trabajo del bot autónomo y definición de reglas de arquitectura."
+    }
+  ]
+}
